@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "2DEAiCeec/VB4o2il+6Yl6cVafl39tIhagunac1XDPs=",
+  "Source": "ApiMiFacturacion",
+  "BasePath": "_content/ApiMiFacturacion",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiMiFacturacion\\wwwroot",
+      "Source": "ApiMiFacturacion",
+      "ContentRoot": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\",
+      "BasePath": "_content/ApiMiFacturacion",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\index.html",
+      "SourceId": "ApiMiFacturacion",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\",
+      "BasePath": "_content/ApiMiFacturacion",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\log.txt",
+      "SourceId": "ApiMiFacturacion",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\",
+      "BasePath": "_content/ApiMiFacturacion",
+      "RelativePath": "log.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\log.txt"
+    },
+    {
+      "Identity": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\logErrores.txt",
+      "SourceId": "ApiMiFacturacion",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gasan\\Desktop\\ApiMiFacturacion\\ApiMiFacturacion\\wwwroot\\",
+      "BasePath": "_content/ApiMiFacturacion",
+      "RelativePath": "logErrores.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logErrores.txt"
+    }
+  ]
+}

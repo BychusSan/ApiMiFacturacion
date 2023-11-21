@@ -1,0 +1,36 @@
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.EsMoroso' while attempting to activate 'ApiMiFacturacion.Controllers.ClientesController'.
+::1 - 20/11/2023 10:26:36 -  /api/Clientes - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.EsMoroso' while attempting to activate 'ApiMiFacturacion.Controllers.ClientesController'.
+::1 - 20/11/2023 10:26:48 -  /api/Clientes/1/EsMoroso - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.EsMoroso' while attempting to activate 'ApiMiFacturacion.Controllers.ClientesController'.
+::1 - 20/11/2023 10:28:34 -  /api/Clientes - GET
+
+Microsoft.EntityFrameworkCore
+Entity type 'Cliente' is defined with a single key property, but 0 values were passed to the 'Find' method.
+::1 - 20/11/2023 10:56:10 -  /api/Clientes/9/EsMoroso - GET
+
+Microsoft.EntityFrameworkCore
+Entity type 'Cliente' is defined with a single key property, but 0 values were passed to the 'Find' method.
+::1 - 20/11/2023 10:56:33 -  /api/Clientes/9/EsMoroso - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.HashService' while attempting to activate 'ApiMiFacturacion.Controllers.UsuariosController'.
+::1 - 20/11/2023 11:46:29 -  /api/Usuarios/hash/nuevousuario - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.HashService' while attempting to activate 'ApiMiFacturacion.Controllers.UsuariosController'.
+::1 - 20/11/2023 11:50:33 -  /api/Usuarios/hash/nuevousuario - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.HashService' while attempting to activate 'ApiMiFacturacion.Controllers.UsuariosController'.
+::1 - 20/11/2023 11:51:38 -  /api/Usuarios/hash/nuevousuario - POST
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'ApiMiFacturacion.Services.TokenService' while attempting to activate 'ApiMiFacturacion.Controllers.AuthController'.
+::1 - 20/11/2023 12:13:24 -  /api/Auth/login - POST
+

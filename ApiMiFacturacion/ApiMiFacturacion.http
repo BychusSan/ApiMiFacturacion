@@ -1,0 +1,6 @@
+@ApiMiFacturacion_HostAddress = http://localhost:5274
+
+GET {{ApiMiFacturacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

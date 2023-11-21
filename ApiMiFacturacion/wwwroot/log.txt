@@ -1,0 +1,150 @@
+::1 - 20/11/2023 10:20:01 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:20:14 -  /api/Facturas - GET
+
+::1 - 20/11/2023 10:21:39 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:24:24 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:26:09 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:26:17 -  /api/Clientes/2/EsMoroso - GET
+
+::1 - 20/11/2023 10:26:36 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:26:48 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:28:34 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:28:48 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:32:32 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:32:35 -  /api/Clientes/2/EsMoroso - GET
+
+::1 - 20/11/2023 10:49:56 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:50:01 -  /api/Clientes/8/EsMoroso - GET
+
+::1 - 20/11/2023 10:51:00 -  /api/Clientes/9/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:08 -  /api/Clientes/9/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:18 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:19 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:20 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:21 -  /api/Clientes/2/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:24 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:30 -  /api/Clientes - GET
+
+::1 - 20/11/2023 10:52:40 -  /api/Facturas - GET
+
+::1 - 20/11/2023 10:52:57 -  /api/Clientes/2/EsMoroso - GET
+
+::1 - 20/11/2023 10:52:59 -  /api/Clientes/3/EsMoroso - GET
+
+::1 - 20/11/2023 10:53:20 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:37 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:41 -  /api/Clientes/2/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:43 -  /api/Clientes/4/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:45 -  /api/Clientes/5/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:47 -  /api/Clientes/7/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:49 -  /api/Clientes/8/EsMoroso - GET
+
+::1 - 20/11/2023 10:55:51 -  /api/Clientes/9/EsMoroso - GET
+
+::1 - 20/11/2023 10:56:10 -  /api/Clientes/9/EsMoroso - GET
+
+::1 - 20/11/2023 10:56:32 -  /api/Clientes/9/EsMoroso - GET
+
+::1 - 20/11/2023 10:57:16 -  /api/Clientes/1/EsMoroso - GET
+
+::1 - 20/11/2023 10:57:19 -  /api/Clientes/2/EsMoroso - GET
+
+::1 - 20/11/2023 10:57:22 -  /api/Clientes/9/EsMoroso - GET
+
+::1 - 20/11/2023 11:46:29 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 20/11/2023 11:50:33 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 20/11/2023 11:51:38 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 20/11/2023 11:51:56 -  /api/Usuarios/hash/nuevousuario - POST
+
+::1 - 20/11/2023 11:57:34 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 11:57:49 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 11:58:35 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 12:13:24 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:15:45 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:16:39 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:17:22 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:17:25 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:17:35 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:17:51 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:18:44 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:25:12 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:25:36 -  /api/Clientes - GET
+
+::1 - 20/11/2023 12:26:51 -  /api/Clientes/Jerez - GET
+
+::1 - 20/11/2023 12:27:15 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 12:30:21 -  /api/Clientes - GET
+
+::1 - 20/11/2023 12:30:38 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:30:56 -  /api/Clientes - GET
+
+::1 - 20/11/2023 12:32:44 -  /api/Clientes - GET
+
+::1 - 20/11/2023 12:32:52 -  /api/Clientes/jerez - GET
+
+::1 - 20/11/2023 12:32:57 -  /api/Clientes/Jerez - GET
+
+::1 - 20/11/2023 12:37:35 -  /api/Usuarios/hash/GetUsuarios - GET
+
+::1 - 20/11/2023 12:42:51 -  /api/Usuarios/hash/GetUsuarios - GET
+
+::1 - 20/11/2023 12:55:53 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 12:56:35 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 12:56:41 -  /api/Usuarios/hash/checkusuario - POST
+
+::1 - 20/11/2023 12:56:53 -  /api/Usuarios/hash/GetUsuarios - GET
+
+::1 - 20/11/2023 12:57:32 -  /api/Clientes - GET
+
+::1 - 20/11/2023 12:57:44 -  /api/Auth/login - POST
+
+::1 - 20/11/2023 12:58:01 -  /api/Clientes - GET
+
+127.0.0.1 - 21/11/2023 10:01:32 -  /api/Auth/login - POST
+
+127.0.0.1 - 21/11/2023 10:01:41 -  /api/Clientes - GET
+
+127.0.0.1 - 21/11/2023 10:01:54 -  /api/Clientes - GET
+
